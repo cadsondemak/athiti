@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="angkhankhu-thai" format="1">
+  <advance width="744"/>
+  <unicode hex="0E5A"/>
+  <note>
+	angkhankhu-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="430" y="0" type="line"/>
+      <point x="430" y="516" type="line"/>
+      <point x="346" y="516" type="line"/>
+      <point x="346" y="327" type="line"/>
+      <point x="304" y="309"/>
+      <point x="254" y="297"/>
+      <point x="204" y="297" type="curve" smooth="yes"/>
+      <point x="184" y="297"/>
+      <point x="167" y="299"/>
+      <point x="151" y="303" type="curve"/>
+      <point x="147" y="315"/>
+      <point x="145" y="330"/>
+      <point x="145" y="350" type="curve" smooth="yes"/>
+      <point x="145" y="516" type="line"/>
+      <point x="68" y="516" type="line"/>
+      <point x="61" y="475"/>
+      <point x="56" y="419"/>
+      <point x="56" y="379" type="curve" smooth="yes"/>
+      <point x="56" y="288"/>
+      <point x="102" y="222"/>
+      <point x="204" y="222" type="curve" smooth="yes"/>
+      <point x="266" y="222"/>
+      <point x="312" y="245"/>
+      <point x="346" y="266" type="curve"/>
+      <point x="346" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="670" y="0" type="line"/>
+      <point x="670" y="516" type="line"/>
+      <point x="586" y="516" type="line"/>
+      <point x="586" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

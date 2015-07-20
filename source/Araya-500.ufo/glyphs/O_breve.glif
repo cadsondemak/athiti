@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obreve" format="1">
+  <advance width="621"/>
+  <unicode hex="014E"/>
+  <note>
+	Obreve
+  </note>
+  <outline>
+    <contour>
+      <point x="498" y="-8"/>
+      <point x="569" y="101"/>
+      <point x="569" y="321" type="curve" smooth="yes"/>
+      <point x="569" y="522"/>
+      <point x="490" y="626"/>
+      <point x="318" y="626" type="curve" smooth="yes"/>
+      <point x="123" y="626"/>
+      <point x="52" y="516"/>
+      <point x="52" y="296" type="curve" smooth="yes"/>
+      <point x="52" y="95"/>
+      <point x="139" y="-8"/>
+      <point x="303" y="-8" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="184" y="70"/>
+      <point x="137" y="146"/>
+      <point x="137" y="315" type="curve" smooth="yes"/>
+      <point x="137" y="403"/>
+      <point x="155" y="476"/>
+      <point x="180" y="530" type="curve"/>
+      <point x="205" y="540"/>
+      <point x="257" y="548"/>
+      <point x="304" y="548" type="curve" smooth="yes"/>
+      <point x="438" y="548"/>
+      <point x="484" y="471"/>
+      <point x="484" y="302" type="curve" smooth="yes"/>
+      <point x="484" y="214"/>
+      <point x="459" y="139"/>
+      <point x="436" y="88" type="curve"/>
+      <point x="411" y="78"/>
+      <point x="364" y="70"/>
+      <point x="317" y="70" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="395" y="691"/>
+      <point x="437" y="735"/>
+      <point x="445" y="804" type="curve"/>
+      <point x="368" y="816" type="line"/>
+      <point x="365" y="777"/>
+      <point x="356" y="755"/>
+      <point x="310" y="755" type="curve" smooth="yes"/>
+      <point x="264" y="755"/>
+      <point x="255" y="777"/>
+      <point x="252" y="816" type="curve"/>
+      <point x="175" y="804" type="line"/>
+      <point x="183" y="735"/>
+      <point x="225" y="691"/>
+      <point x="310" y="691" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

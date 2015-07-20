@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcommaaccent" format="1">
+  <advance width="393"/>
+  <unicode hex="0157"/>
+  <note>
+	rcommaaccent
+  </note>
+  <outline>
+    <contour>
+      <point x="177" y="0" type="line"/>
+      <point x="177" y="288" type="line"/>
+      <point x="201" y="339"/>
+      <point x="253" y="360"/>
+      <point x="311" y="360" type="curve" smooth="yes"/>
+      <point x="356" y="360" type="line"/>
+      <point x="367" y="451" type="line"/>
+      <point x="360" y="461"/>
+      <point x="340" y="475"/>
+      <point x="329" y="475" type="curve" smooth="yes"/>
+      <point x="269" y="475"/>
+      <point x="211" y="438"/>
+      <point x="180" y="376" type="curve"/>
+      <point x="170" y="376" type="line"/>
+      <point x="164" y="470" type="line"/>
+      <point x="70" y="470" type="line"/>
+      <point x="70" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="-222"/>
+      <point x="200" y="-175"/>
+      <point x="200" y="-132" type="curve" smooth="yes"/>
+      <point x="200" y="-81"/>
+      <point x="176" y="-55"/>
+      <point x="123" y="-55" type="curve" smooth="yes"/>
+      <point x="102" y="-55"/>
+      <point x="78" y="-59"/>
+      <point x="60" y="-66" type="curve"/>
+      <point x="60" y="-139" type="line"/>
+      <point x="113" y="-139" type="line"/>
+      <point x="112" y="-174"/>
+      <point x="101" y="-206"/>
+      <point x="81" y="-241" type="curve"/>
+      <point x="148" y="-256" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wacute" format="1">
+  <advance width="731"/>
+  <unicode hex="1E83"/>
+  <note>
+	wacute
+  </note>
+  <outline>
+    <contour>
+      <point x="279" y="0" type="line"/>
+      <point x="306" y="71"/>
+      <point x="335" y="144"/>
+      <point x="362" y="221" type="curve"/>
+      <point x="367" y="221" type="line"/>
+      <point x="390" y="142"/>
+      <point x="416" y="67"/>
+      <point x="442" y="0" type="curve"/>
+      <point x="562" y="0" type="line"/>
+      <point x="620" y="148"/>
+      <point x="664" y="294"/>
+      <point x="711" y="467" type="curve"/>
+      <point x="608" y="476" type="line"/>
+      <point x="570" y="315"/>
+      <point x="539" y="200"/>
+      <point x="503" y="98" type="curve"/>
+      <point x="497" y="98" type="line"/>
+      <point x="460" y="212"/>
+      <point x="435" y="309"/>
+      <point x="402" y="470" type="curve"/>
+      <point x="304" y="463" type="line"/>
+      <point x="311" y="430"/>
+      <point x="318" y="397"/>
+      <point x="327" y="364" type="curve"/>
+      <point x="295" y="257"/>
+      <point x="262" y="171"/>
+      <point x="233" y="100" type="curve"/>
+      <point x="227" y="100" type="line"/>
+      <point x="195" y="207"/>
+      <point x="171" y="315"/>
+      <point x="138" y="476" type="curve"/>
+      <point x="33" y="469" type="line"/>
+      <point x="71" y="299"/>
+      <point x="116" y="143"/>
+      <point x="169" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="529" y="687" type="line"/>
+      <point x="404" y="700" type="line"/>
+      <point x="321" y="547" type="line"/>
+      <point x="400" y="534" type="line"/>
+    </contour>
+  </outline>
+</glyph>

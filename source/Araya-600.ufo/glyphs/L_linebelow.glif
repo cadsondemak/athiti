@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Llinebelow" format="1">
+  <advance width="474"/>
+  <unicode hex="1E3A"/>
+  <note>
+	Llinebelow
+  </note>
+  <outline>
+    <contour>
+      <point x="454" y="0" type="line"/>
+      <point x="454" y="102" type="line"/>
+      <point x="181" y="102" type="line"/>
+      <point x="181" y="618" type="line"/>
+      <point x="71" y="618" type="line"/>
+      <point x="71" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="404" y="-145" type="line"/>
+      <point x="404" y="-55" type="line"/>
+      <point x="71" y="-55" type="line"/>
+      <point x="71" y="-145" type="line"/>
+    </contour>
+  </outline>
+</glyph>

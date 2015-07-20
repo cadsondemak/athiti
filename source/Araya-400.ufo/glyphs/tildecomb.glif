@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="1">
+  <advance width="0"/>
+  <unicode hex="0303"/>
+  <note>
+	tildecomb
+  </note>
+  <outline>
+    <contour>
+      <point x="-333" y="546"/>
+      <point x="-322" y="567"/>
+      <point x="-293" y="567" type="curve" smooth="yes"/>
+      <point x="-258" y="567"/>
+      <point x="-229" y="519"/>
+      <point x="-181" y="519" type="curve" smooth="yes"/>
+      <point x="-132" y="519"/>
+      <point x="-107" y="550"/>
+      <point x="-103" y="608" type="curve"/>
+      <point x="-144" y="621" type="line"/>
+      <point x="-148" y="591"/>
+      <point x="-160" y="571"/>
+      <point x="-188" y="571" type="curve" smooth="yes"/>
+      <point x="-222" y="571"/>
+      <point x="-256" y="619"/>
+      <point x="-300" y="619" type="curve" smooth="yes"/>
+      <point x="-349" y="619"/>
+      <point x="-374" y="587"/>
+      <point x="-378" y="530" type="curve"/>
+      <point x="-337" y="517" type="line"/>
+    </contour>
+  </outline>
+</glyph>

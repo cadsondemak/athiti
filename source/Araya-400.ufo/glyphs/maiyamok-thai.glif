@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maiyamok-thai" format="1">
+  <advance width="543"/>
+  <unicode hex="0E46"/>
+  <note>
+	maiyamok-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="468" y="-248" type="line"/>
+      <point x="468" y="457" type="line"/>
+      <point x="444" y="469"/>
+      <point x="419" y="476"/>
+      <point x="387" y="476" type="curve" smooth="yes"/>
+      <point x="329" y="476"/>
+      <point x="299" y="453"/>
+      <point x="273" y="419" type="curve"/>
+      <point x="267" y="419" type="line"/>
+      <point x="250" y="449"/>
+      <point x="222" y="476"/>
+      <point x="171" y="476" type="curve" smooth="yes"/>
+      <point x="85" y="476"/>
+      <point x="54" y="418"/>
+      <point x="54" y="334" type="curve" smooth="yes"/>
+      <point x="54" y="307"/>
+      <point x="59" y="274"/>
+      <point x="71" y="245" type="curve"/>
+      <point x="129" y="254" type="line"/>
+      <point x="119" y="284"/>
+      <point x="116" y="308"/>
+      <point x="116" y="335" type="curve" smooth="yes"/>
+      <point x="116" y="391"/>
+      <point x="131" y="422"/>
+      <point x="178" y="422" type="curve" smooth="yes"/>
+      <point x="220" y="422"/>
+      <point x="238" y="393"/>
+      <point x="249" y="363" type="curve"/>
+      <point x="289" y="363" type="line"/>
+      <point x="299" y="393"/>
+      <point x="320" y="422"/>
+      <point x="368" y="422" type="curve" smooth="yes"/>
+      <point x="385" y="422"/>
+      <point x="394" y="420"/>
+      <point x="406" y="417" type="curve"/>
+      <point x="406" y="-248" type="line"/>
+    </contour>
+  </outline>
+</glyph>

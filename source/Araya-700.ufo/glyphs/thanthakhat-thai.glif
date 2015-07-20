@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thanthakhat-thai" format="1">
+  <advance width="0"/>
+  <unicode hex="0E4C"/>
+  <note>
+	thanthakhat-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="-164" y="591" type="line"/>
+      <point x="-164" y="648" type="line"/>
+      <point x="-145" y="651"/>
+      <point x="-125" y="652"/>
+      <point x="-101" y="652" type="curve" smooth="yes"/>
+      <point x="-51" y="652"/>
+      <point x="-4" y="644"/>
+      <point x="39" y="628" type="curve"/>
+      <point x="69" y="736" type="line"/>
+      <point x="16" y="752"/>
+      <point x="-33" y="761"/>
+      <point x="-104" y="761" type="curve" smooth="yes"/>
+      <point x="-175" y="761"/>
+      <point x="-254" y="750"/>
+      <point x="-303" y="737" type="curve"/>
+      <point x="-303" y="591" type="line"/>
+    </contour>
+    <contour>
+      <point x="-79" y="525" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-79" y="300" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

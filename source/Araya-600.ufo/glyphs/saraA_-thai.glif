@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="saraA-thai" format="1">
+  <advance width="484"/>
+  <unicode hex="0E30"/>
+  <note>
+	saraA-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="305" y="305"/>
+      <point x="361" y="318"/>
+      <point x="422" y="355" type="curve"/>
+      <point x="378" y="434" type="line"/>
+      <point x="334" y="405"/>
+      <point x="292" y="392"/>
+      <point x="229" y="392" type="curve" smooth="yes"/>
+      <point x="204" y="392"/>
+      <point x="181" y="394"/>
+      <point x="162" y="399" type="curve"/>
+      <point x="162" y="450" type="line"/>
+      <point x="58" y="450" type="line"/>
+      <point x="58" y="336" type="line"/>
+      <point x="101" y="316"/>
+      <point x="157" y="305"/>
+      <point x="223" y="305" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="305" y="63"/>
+      <point x="361" y="76"/>
+      <point x="422" y="113" type="curve"/>
+      <point x="378" y="192" type="line"/>
+      <point x="334" y="163"/>
+      <point x="292" y="150"/>
+      <point x="229" y="150" type="curve" smooth="yes"/>
+      <point x="204" y="150"/>
+      <point x="181" y="152"/>
+      <point x="162" y="157" type="curve"/>
+      <point x="162" y="208" type="line"/>
+      <point x="58" y="208" type="line"/>
+      <point x="58" y="94" type="line"/>
+      <point x="101" y="74"/>
+      <point x="157" y="63"/>
+      <point x="223" y="63" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

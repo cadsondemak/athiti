@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02BE" format="1">
+  <advance width="176"/>
+  <unicode hex="02BE"/>
+  <note>
+	uni02BE
+  </note>
+  <outline>
+    <contour>
+      <point x="108" y="447"/>
+      <point x="147" y="479"/>
+      <point x="147" y="535" type="curve" smooth="yes"/>
+      <point x="147" y="595"/>
+      <point x="109" y="624"/>
+      <point x="26" y="624" type="curve"/>
+      <point x="26" y="559" type="line"/>
+      <point x="53" y="559"/>
+      <point x="65" y="549"/>
+      <point x="65" y="530" type="curve" smooth="yes"/>
+      <point x="65" y="521"/>
+      <point x="64" y="515"/>
+      <point x="61" y="509" type="curve"/>
+      <point x="52" y="507"/>
+      <point x="37" y="507"/>
+      <point x="26" y="508" type="curve"/>
+      <point x="26" y="447" type="line"/>
+    </contour>
+  </outline>
+</glyph>

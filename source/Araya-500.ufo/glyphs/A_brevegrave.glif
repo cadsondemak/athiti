@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevegrave" format="1">
+  <advance width="607"/>
+  <unicode hex="1EB0"/>
+  <note>
+	Abrevegrave
+  </note>
+  <outline>
+    <contour>
+      <point x="141" y="64"/>
+      <point x="159" y="133"/>
+      <point x="178" y="200" type="curve"/>
+      <point x="428" y="200" type="line"/>
+      <point x="447" y="133"/>
+      <point x="465" y="64"/>
+      <point x="481" y="0" type="curve"/>
+      <point x="572" y="7" type="line"/>
+      <point x="519" y="205"/>
+      <point x="445" y="441"/>
+      <point x="377" y="616" type="curve"/>
+      <point x="230" y="616" type="line"/>
+      <point x="162" y="441"/>
+      <point x="88" y="205"/>
+      <point x="35" y="7" type="curve"/>
+      <point x="126" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="376"/>
+      <point x="260" y="470"/>
+      <point x="283" y="535" type="curve"/>
+      <point x="324" y="535" type="line"/>
+      <point x="347" y="470"/>
+      <point x="376" y="376"/>
+      <point x="406" y="275" type="curve"/>
+      <point x="200" y="275" type="line"/>
+    </contour>
+    <contour>
+      <point x="387" y="686"/>
+      <point x="429" y="730"/>
+      <point x="437" y="799" type="curve"/>
+      <point x="360" y="811" type="line"/>
+      <point x="357" y="772"/>
+      <point x="348" y="750"/>
+      <point x="302" y="750" type="curve" smooth="yes"/>
+      <point x="256" y="750"/>
+      <point x="247" y="772"/>
+      <point x="244" y="811" type="curve"/>
+      <point x="167" y="799" type="line"/>
+      <point x="175" y="730"/>
+      <point x="217" y="686"/>
+      <point x="302" y="686" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="334" y="852" type="line"/>
+      <point x="274" y="960" type="line"/>
+      <point x="200" y="947" type="line"/>
+      <point x="282" y="840" type="line"/>
+    </contour>
+  </outline>
+</glyph>

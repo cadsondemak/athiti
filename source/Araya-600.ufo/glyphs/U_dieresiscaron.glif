@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresiscaron" format="1">
+  <advance width="626"/>
+  <unicode hex="01D9"/>
+  <note>
+	Udieresiscaron
+  </note>
+  <outline>
+    <contour>
+      <point x="447" y="-9"/>
+      <point x="557" y="27"/>
+      <point x="557" y="131" type="curve" smooth="yes"/>
+      <point x="557" y="618" type="line"/>
+      <point x="447" y="618" type="line"/>
+      <point x="447" y="112" type="line"/>
+      <point x="416" y="100"/>
+      <point x="372" y="92"/>
+      <point x="310" y="92" type="curve" smooth="yes"/>
+      <point x="216" y="92"/>
+      <point x="179" y="120"/>
+      <point x="179" y="214" type="curve" smooth="yes"/>
+      <point x="179" y="618" type="line"/>
+      <point x="69" y="618" type="line"/>
+      <point x="69" y="192" type="line" smooth="yes"/>
+      <point x="69" y="63"/>
+      <point x="143" y="-9"/>
+      <point x="303" y="-9" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="266" y="681"/>
+      <point x="287" y="701"/>
+      <point x="287" y="734" type="curve" smooth="yes"/>
+      <point x="287" y="769"/>
+      <point x="266" y="788"/>
+      <point x="230" y="788" type="curve" smooth="yes"/>
+      <point x="195" y="788"/>
+      <point x="174" y="769"/>
+      <point x="174" y="734" type="curve" smooth="yes"/>
+      <point x="174" y="701"/>
+      <point x="195" y="681"/>
+      <point x="230" y="681" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="432" y="681"/>
+      <point x="452" y="701"/>
+      <point x="452" y="734" type="curve" smooth="yes"/>
+      <point x="452" y="769"/>
+      <point x="432" y="788"/>
+      <point x="396" y="788" type="curve" smooth="yes"/>
+      <point x="360" y="788"/>
+      <point x="339" y="769"/>
+      <point x="339" y="734" type="curve" smooth="yes"/>
+      <point x="339" y="701"/>
+      <point x="360" y="681"/>
+      <point x="396" y="681" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="356" y="839" type="line"/>
+      <point x="453" y="975" type="line"/>
+      <point x="390" y="987" type="line"/>
+      <point x="314" y="918" type="line"/>
+      <point x="308" y="918" type="line"/>
+      <point x="228" y="987" type="line"/>
+      <point x="167" y="975" type="line"/>
+      <point x="265" y="839" type="line"/>
+    </contour>
+  </outline>
+</glyph>

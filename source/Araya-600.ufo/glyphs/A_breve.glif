@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve" format="1">
+  <advance width="624"/>
+  <unicode hex="0102"/>
+  <note>
+	Abreve
+  </note>
+  <outline>
+    <contour>
+      <point x="406" y="678"/>
+      <point x="449" y="723"/>
+      <point x="457" y="802" type="curve"/>
+      <point x="361" y="817" type="line"/>
+      <point x="359" y="782"/>
+      <point x="349" y="762"/>
+      <point x="311" y="762" type="curve" smooth="yes"/>
+      <point x="273" y="762"/>
+      <point x="263" y="782"/>
+      <point x="261" y="817" type="curve"/>
+      <point x="165" y="802" type="line"/>
+      <point x="173" y="723"/>
+      <point x="216" y="678"/>
+      <point x="311" y="678" type="curve" smooth="yes"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+</glyph>

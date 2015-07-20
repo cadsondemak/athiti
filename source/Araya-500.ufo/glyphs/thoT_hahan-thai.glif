@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thoThahan-thai" format="1">
+  <advance width="565"/>
+  <unicode hex="0E17"/>
+  <note>
+	thoThahan-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="160" y="0" type="line"/>
+      <point x="160" y="377" type="line"/>
+      <point x="207" y="418"/>
+      <point x="263" y="450"/>
+      <point x="330" y="450" type="curve" smooth="yes"/>
+      <point x="359" y="450"/>
+      <point x="382" y="448"/>
+      <point x="407" y="439" type="curve"/>
+      <point x="407" y="0" type="line"/>
+      <point x="491" y="0" type="line"/>
+      <point x="491" y="409" type="line" smooth="yes"/>
+      <point x="491" y="489"/>
+      <point x="440" y="526"/>
+      <point x="348" y="526" type="curve" smooth="yes"/>
+      <point x="275" y="526"/>
+      <point x="209" y="490"/>
+      <point x="166" y="438" type="curve"/>
+      <point x="158" y="438" type="line"/>
+      <point x="153" y="516" type="line"/>
+      <point x="76" y="516" type="line"/>
+      <point x="76" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

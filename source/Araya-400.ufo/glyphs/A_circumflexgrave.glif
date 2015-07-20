@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexgrave" format="1">
+  <advance width="591"/>
+  <unicode hex="1EA6"/>
+  <note>
+	Acircumflexgrave
+  </note>
+  <outline>
+    <contour>
+      <point x="123" y="65"/>
+      <point x="144" y="141"/>
+      <point x="163" y="209" type="curve"/>
+      <point x="427" y="209" type="line"/>
+      <point x="447" y="141"/>
+      <point x="468" y="65"/>
+      <point x="484" y="0" type="curve"/>
+      <point x="551" y="7" type="line"/>
+      <point x="497" y="205"/>
+      <point x="425" y="436"/>
+      <point x="358" y="614" type="curve"/>
+      <point x="233" y="614" type="line"/>
+      <point x="166" y="436"/>
+      <point x="94" y="205"/>
+      <point x="40" y="7" type="curve"/>
+      <point x="107" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="369"/>
+      <point x="248" y="485"/>
+      <point x="273" y="553" type="curve"/>
+      <point x="317" y="553" type="line"/>
+      <point x="342" y="485"/>
+      <point x="378" y="369"/>
+      <point x="409" y="265" type="curve"/>
+      <point x="180" y="265" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="795" type="line"/>
+      <point x="110" y="901" type="line"/>
+      <point x="51" y="890" type="line"/>
+      <point x="132" y="787" type="line"/>
+    </contour>
+    <contour>
+      <point x="293" y="786" type="line"/>
+      <point x="298" y="786" type="line"/>
+      <point x="388" y="697" type="line"/>
+      <point x="427" y="706" type="line"/>
+      <point x="325" y="838" type="line"/>
+      <point x="266" y="838" type="line"/>
+      <point x="165" y="706" type="line"/>
+      <point x="205" y="697" type="line"/>
+    </contour>
+  </outline>
+</glyph>

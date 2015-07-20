@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hoHip-thai" format="1">
+  <advance width="588"/>
+  <unicode hex="0E2B"/>
+  <note>
+	hoHip-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="226" type="line"/>
+      <point x="280" y="226" type="line" smooth="yes"/>
+      <point x="334" y="226"/>
+      <point x="354" y="212"/>
+      <point x="362" y="159" type="curve" smooth="yes"/>
+      <point x="387" y="0" type="line"/>
+      <point x="538" y="0" type="line"/>
+      <point x="507" y="203" type="line" smooth="yes"/>
+      <point x="497" y="266"/>
+      <point x="469" y="286"/>
+      <point x="409" y="307" type="curve"/>
+      <point x="455" y="325"/>
+      <point x="487" y="343"/>
+      <point x="501" y="374" type="curve" smooth="yes"/>
+      <point x="519" y="413"/>
+      <point x="529" y="464"/>
+      <point x="533" y="516" type="curve"/>
+      <point x="384" y="525" type="line"/>
+      <point x="379" y="478"/>
+      <point x="377" y="457"/>
+      <point x="363" y="422" type="curve" smooth="yes"/>
+      <point x="355" y="402"/>
+      <point x="347" y="386"/>
+      <point x="335" y="370" type="curve"/>
+      <point x="210" y="362" type="line"/>
+      <point x="210" y="516" type="line"/>
+      <point x="66" y="516" type="line"/>
+      <point x="66" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

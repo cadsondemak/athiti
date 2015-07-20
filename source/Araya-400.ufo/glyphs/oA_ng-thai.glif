@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oAng-thai" format="1">
+  <advance width="515"/>
+  <unicode hex="0E2D"/>
+  <note>
+	oAng-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="408" y="-10"/>
+      <point x="456" y="82"/>
+      <point x="456" y="250" type="curve" smooth="yes"/>
+      <point x="456" y="439"/>
+      <point x="408" y="524"/>
+      <point x="259" y="524" type="curve" smooth="yes"/>
+      <point x="196" y="524"/>
+      <point x="136" y="511"/>
+      <point x="73" y="487" type="curve"/>
+      <point x="73" y="459" type="line" smooth="yes"/>
+      <point x="73" y="434"/>
+      <point x="78" y="407"/>
+      <point x="85" y="382" type="curve"/>
+      <point x="129" y="382" type="line"/>
+      <point x="129" y="456" type="line"/>
+      <point x="176" y="464"/>
+      <point x="210" y="467"/>
+      <point x="259" y="467" type="curve" smooth="yes"/>
+      <point x="353" y="467"/>
+      <point x="394" y="428"/>
+      <point x="394" y="250" type="curve" smooth="yes"/>
+      <point x="394" y="100"/>
+      <point x="368" y="46"/>
+      <point x="246" y="46" type="curve" smooth="yes"/>
+      <point x="149" y="46"/>
+      <point x="115" y="77"/>
+      <point x="115" y="158" type="curve" smooth="yes"/>
+      <point x="115" y="232" type="line"/>
+      <point x="251" y="232" type="line"/>
+      <point x="251" y="286" type="line"/>
+      <point x="109" y="286" type="line" smooth="yes"/>
+      <point x="94" y="286"/>
+      <point x="54" y="251"/>
+      <point x="54" y="240" type="curve" smooth="yes"/>
+      <point x="54" y="161" type="line" smooth="yes"/>
+      <point x="54" y="51"/>
+      <point x="113" y="-10"/>
+      <point x="247" y="-10" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

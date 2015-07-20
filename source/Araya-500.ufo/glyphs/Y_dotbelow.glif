@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydotbelow" format="1">
+  <advance width="615"/>
+  <unicode hex="1EF4"/>
+  <note>
+	Ydotbelow
+  </note>
+  <outline>
+    <contour>
+      <point x="350" y="0" type="line"/>
+      <point x="350" y="211" type="line"/>
+      <point x="371" y="211" type="line"/>
+      <point x="465" y="338"/>
+      <point x="523" y="447"/>
+      <point x="587" y="600" type="curve"/>
+      <point x="502" y="621" type="line"/>
+      <point x="448" y="488"/>
+      <point x="382" y="365"/>
+      <point x="323" y="278" type="curve"/>
+      <point x="292" y="278" type="line"/>
+      <point x="233" y="365"/>
+      <point x="167" y="488"/>
+      <point x="113" y="621" type="curve"/>
+      <point x="28" y="600" type="line"/>
+      <point x="92" y="447"/>
+      <point x="150" y="338"/>
+      <point x="244" y="211" type="curve"/>
+      <point x="265" y="211" type="line"/>
+      <point x="265" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="-179"/>
+      <point x="367" y="-158"/>
+      <point x="367" y="-123" type="curve" smooth="yes"/>
+      <point x="367" y="-86"/>
+      <point x="345" y="-65"/>
+      <point x="307" y="-65" type="curve" smooth="yes"/>
+      <point x="269" y="-65"/>
+      <point x="247" y="-86"/>
+      <point x="247" y="-123" type="curve" smooth="yes"/>
+      <point x="247" y="-158"/>
+      <point x="269" y="-179"/>
+      <point x="307" y="-179" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

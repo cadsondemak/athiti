@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khoKhai-thai" format="1">
+  <advance width="495"/>
+  <unicode hex="0E02"/>
+  <note>
+	khoKhai-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="367" y="-10"/>
+      <point x="415" y="58"/>
+      <point x="415" y="130" type="curve" smooth="yes"/>
+      <point x="415" y="514" type="line"/>
+      <point x="353" y="514" type="line"/>
+      <point x="353" y="61" type="line"/>
+      <point x="327" y="53"/>
+      <point x="292" y="47"/>
+      <point x="246" y="47" type="curve" smooth="yes"/>
+      <point x="145" y="47"/>
+      <point x="122" y="89"/>
+      <point x="122" y="152" type="curve" smooth="yes"/>
+      <point x="122" y="221" type="line" smooth="yes"/>
+      <point x="122" y="305"/>
+      <point x="203" y="337"/>
+      <point x="203" y="421" type="curve" smooth="yes"/>
+      <point x="203" y="468"/>
+      <point x="182" y="514"/>
+      <point x="108" y="514" type="curve" smooth="yes"/>
+      <point x="56" y="514" type="line"/>
+      <point x="56" y="459" type="line"/>
+      <point x="98" y="459" type="line" smooth="yes"/>
+      <point x="128" y="459"/>
+      <point x="141" y="446"/>
+      <point x="141" y="415" type="curve" smooth="yes"/>
+      <point x="141" y="349"/>
+      <point x="60" y="321"/>
+      <point x="60" y="233" type="curve" smooth="yes"/>
+      <point x="60" y="156" type="line" smooth="yes"/>
+      <point x="60" y="68"/>
+      <point x="96" y="-10"/>
+      <point x="246" y="-10" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

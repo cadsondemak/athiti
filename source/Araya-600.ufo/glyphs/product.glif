@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="product" format="1">
+  <advance width="644"/>
+  <unicode hex="220F"/>
+  <note>
+	product
+  </note>
+  <outline>
+    <contour>
+      <point x="185" y="-190" type="line"/>
+      <point x="185" y="517" type="line"/>
+      <point x="459" y="517" type="line"/>
+      <point x="459" y="-190" type="line"/>
+      <point x="568" y="-190" type="line"/>
+      <point x="568" y="618" type="line"/>
+      <point x="76" y="618" type="line"/>
+      <point x="76" y="-190" type="line"/>
+    </contour>
+  </outline>
+</glyph>

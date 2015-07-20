@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni207E" format="1">
+  <advance width="249"/>
+  <unicode hex="207E"/>
+  <note>
+	uni207E
+  </note>
+  <outline>
+    <contour>
+      <point x="137" y="309"/>
+      <point x="188" y="337"/>
+      <point x="190" y="357" type="curve"/>
+      <point x="190" y="695" type="line"/>
+      <point x="188" y="715"/>
+      <point x="137" y="743"/>
+      <point x="112" y="750" type="curve"/>
+      <point x="94" y="750"/>
+      <point x="74" y="748"/>
+      <point x="61" y="746" type="curve"/>
+      <point x="61" y="673" type="line"/>
+      <point x="105" y="673" type="line"/>
+      <point x="105" y="379" type="line"/>
+      <point x="61" y="379" type="line"/>
+      <point x="61" y="306" type="line"/>
+      <point x="74" y="304"/>
+      <point x="94" y="302"/>
+      <point x="112" y="302" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

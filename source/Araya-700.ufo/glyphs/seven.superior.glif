@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.superior" format="1">
+  <advance width="342"/>
+  <unicode hex="2077"/>
+  <note>
+	seven.superior
+  </note>
+  <outline>
+    <contour>
+      <point x="216" y="433"/>
+      <point x="244" y="491"/>
+      <point x="325" y="584" type="curve"/>
+      <point x="325" y="695" type="line"/>
+      <point x="11" y="695" type="line"/>
+      <point x="11" y="652" type="line" smooth="yes"/>
+      <point x="11" y="615"/>
+      <point x="16" y="582"/>
+      <point x="26" y="557" type="curve"/>
+      <point x="130" y="557" type="line"/>
+      <point x="130" y="595" type="line"/>
+      <point x="198" y="595" type="line"/>
+      <point x="198" y="590" type="line"/>
+      <point x="125" y="512"/>
+      <point x="91" y="454"/>
+      <point x="72" y="335" type="curve"/>
+      <point x="198" y="325" type="line"/>
+    </contour>
+  </outline>
+</glyph>
