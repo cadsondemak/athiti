@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nlinebelow" format="1">
+  <advance width="603"/>
+  <unicode hex="1E48"/>
+  <note>
+	Nlinebelow
+  </note>
+  <outline>
+    <contour>
+      <point x="121" y="0" type="line"/>
+      <point x="121" y="322" type="line"/>
+      <point x="115" y="559" type="line"/>
+      <point x="121" y="561" type="line"/>
+      <point x="477" y="0" type="line"/>
+      <point x="513" y="0" type="line"/>
+      <point x="513" y="610" type="line"/>
+      <point x="482" y="610" type="line"/>
+      <point x="482" y="288" type="line"/>
+      <point x="488" y="51" type="line"/>
+      <point x="482" y="49" type="line"/>
+      <point x="126" y="610" type="line"/>
+      <point x="90" y="610" type="line"/>
+      <point x="90" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="454" y="-105" type="line"/>
+      <point x="454" y="-73" type="line"/>
+      <point x="156" y="-73" type="line"/>
+      <point x="156" y="-105" type="line"/>
+    </contour>
+  </outline>
+</glyph>

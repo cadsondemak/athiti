@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="phoPhan-thai" format="1">
+  <advance width="621"/>
+  <unicode hex="0E1E"/>
+  <note>
+	phoPhan-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="179" y="0" type="line"/>
+      <point x="215" y="96"/>
+      <point x="277" y="269"/>
+      <point x="308" y="379" type="curve"/>
+      <point x="313" y="379" type="line"/>
+      <point x="344" y="269"/>
+      <point x="406" y="96"/>
+      <point x="442" y="0" type="curve"/>
+      <point x="489" y="0" type="line"/>
+      <point x="510" y="148"/>
+      <point x="531" y="330"/>
+      <point x="544" y="514" type="curve"/>
+      <point x="512" y="517" type="line"/>
+      <point x="502" y="335"/>
+      <point x="482" y="161"/>
+      <point x="467" y="30" type="curve"/>
+      <point x="459" y="30" type="line"/>
+      <point x="429" y="107"/>
+      <point x="367" y="287"/>
+      <point x="330" y="409" type="curve"/>
+      <point x="291" y="409" type="line"/>
+      <point x="254" y="287"/>
+      <point x="192" y="107"/>
+      <point x="162" y="30" type="curve"/>
+      <point x="154" y="30" type="line"/>
+      <point x="139" y="161"/>
+      <point x="119" y="335"/>
+      <point x="109" y="517" type="curve"/>
+      <point x="77" y="514" type="line"/>
+      <point x="90" y="330"/>
+      <point x="111" y="148"/>
+      <point x="132" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="506" y="300" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="489" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

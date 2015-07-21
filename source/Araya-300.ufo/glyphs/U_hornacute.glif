@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhornacute" format="1">
+  <advance width="719"/>
+  <unicode hex="1EE8"/>
+  <note>
+	Uhornacute
+  </note>
+  <outline>
+    <contour>
+      <point x="420" y="-11"/>
+      <point x="508" y="21"/>
+      <point x="508" y="85" type="curve" smooth="yes"/>
+      <point x="508" y="456" type="line"/>
+      <point x="636" y="491"/>
+      <point x="711" y="560"/>
+      <point x="711" y="692" type="curve"/>
+      <point x="664" y="692" type="line"/>
+      <point x="661" y="580"/>
+      <point x="603" y="534"/>
+      <point x="519" y="501" type="curve"/>
+      <point x="507" y="501" type="line"/>
+      <point x="507" y="612" type="line"/>
+      <point x="461" y="612" type="line"/>
+      <point x="461" y="62" type="line"/>
+      <point x="423" y="45"/>
+      <point x="371" y="34"/>
+      <point x="299" y="34" type="curve" smooth="yes"/>
+      <point x="181" y="34"/>
+      <point x="129" y="65"/>
+      <point x="129" y="178" type="curve" smooth="yes"/>
+      <point x="129" y="612" type="line"/>
+      <point x="82" y="612" type="line"/>
+      <point x="82" y="166" type="line" smooth="yes"/>
+      <point x="82" y="45"/>
+      <point x="152" y="-11"/>
+      <point x="292" y="-11" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="423" y="847" type="line"/>
+      <point x="361" y="854" type="line"/>
+      <point x="277" y="713" type="line"/>
+      <point x="309" y="707" type="line"/>
+    </contour>
+  </outline>
+</glyph>

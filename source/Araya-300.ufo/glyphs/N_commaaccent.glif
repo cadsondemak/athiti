@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommaaccent" format="1">
+  <advance width="610"/>
+  <unicode hex="0145"/>
+  <note>
+	Ncommaaccent
+  </note>
+  <outline>
+    <contour>
+      <point x="133" y="0" type="line"/>
+      <point x="133" y="324" type="line"/>
+      <point x="125" y="538" type="line"/>
+      <point x="132" y="540" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="524" y="612" type="line"/>
+      <point x="477" y="612" type="line"/>
+      <point x="477" y="288" type="line"/>
+      <point x="484" y="74" type="line"/>
+      <point x="478" y="72" type="line"/>
+      <point x="139" y="612" type="line"/>
+      <point x="86" y="612" type="line"/>
+      <point x="86" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="-198"/>
+      <point x="367" y="-156"/>
+      <point x="367" y="-110" type="curve" smooth="yes"/>
+      <point x="367" y="-70"/>
+      <point x="349" y="-48"/>
+      <point x="311" y="-48" type="curve" smooth="yes"/>
+      <point x="297" y="-48"/>
+      <point x="284" y="-51"/>
+      <point x="273" y="-55" type="curve"/>
+      <point x="273" y="-88" type="line"/>
+      <point x="328" y="-88" type="line"/>
+      <point x="328" y="-148"/>
+      <point x="315" y="-187"/>
+      <point x="292" y="-228" type="curve"/>
+      <point x="322" y="-235" type="line"/>
+    </contour>
+  </outline>
+</glyph>

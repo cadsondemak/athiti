@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yhookabove" format="1">
+  <advance width="591"/>
+  <unicode hex="1EF6"/>
+  <note>
+	Yhookabove
+  </note>
+  <outline>
+    <contour>
+      <point x="319" y="0" type="line"/>
+      <point x="319" y="228" type="line"/>
+      <point x="338" y="228" type="line"/>
+      <point x="422" y="332"/>
+      <point x="495" y="455"/>
+      <point x="559" y="604" type="curve"/>
+      <point x="512" y="618" type="line"/>
+      <point x="458" y="482"/>
+      <point x="382" y="356"/>
+      <point x="314" y="267" type="curve"/>
+      <point x="277" y="267" type="line"/>
+      <point x="208" y="356"/>
+      <point x="133" y="482"/>
+      <point x="79" y="618" type="curve"/>
+      <point x="32" y="604" type="line"/>
+      <point x="95" y="455"/>
+      <point x="169" y="332"/>
+      <point x="253" y="228" type="curve"/>
+      <point x="272" y="228" type="line"/>
+      <point x="272" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="714" type="line"/>
+      <point x="310" y="753" type="line"/>
+      <point x="362" y="756"/>
+      <point x="399" y="774"/>
+      <point x="399" y="827" type="curve" smooth="yes"/>
+      <point x="399" y="869"/>
+      <point x="376" y="901"/>
+      <point x="320" y="901" type="curve" smooth="yes"/>
+      <point x="294" y="901"/>
+      <point x="275" y="897"/>
+      <point x="251" y="888" type="curve"/>
+      <point x="261" y="857" type="line"/>
+      <point x="279" y="863"/>
+      <point x="296" y="865"/>
+      <point x="312" y="865" type="curve" smooth="yes"/>
+      <point x="347" y="865"/>
+      <point x="360" y="852"/>
+      <point x="360" y="827" type="curve" smooth="yes"/>
+      <point x="360" y="793"/>
+      <point x="337" y="786"/>
+      <point x="272" y="786" type="curve"/>
+      <point x="272" y="763" type="line"/>
+      <point x="283" y="714" type="line"/>
+    </contour>
+  </outline>
+</glyph>

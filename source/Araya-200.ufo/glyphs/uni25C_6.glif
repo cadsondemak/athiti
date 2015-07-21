@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni25C6" format="1">
+  <advance width="548"/>
+  <unicode hex="25C6"/>
+  <note>
+	uni25C6
+  </note>
+  <outline>
+    <contour>
+      <point x="463" y="233" type="line"/>
+      <point x="274" y="469" type="line"/>
+      <point x="85" y="233" type="line"/>
+      <point x="274" y="-4" type="line"/>
+    </contour>
+  </outline>
+</glyph>

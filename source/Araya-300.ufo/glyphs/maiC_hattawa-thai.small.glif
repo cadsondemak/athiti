@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maiChattawa-thai.small" format="1">
+  <advance width="0"/>
+  <note>
+	maiChattawa-thai.small
+  </note>
+  <outline>
+    <contour>
+      <point x="-84" y="785" type="line"/>
+      <point x="-84" y="855" type="line"/>
+      <point x="-33" y="852" type="line"/>
+      <point x="16" y="852" type="line"/>
+      <point x="16" y="889" type="line"/>
+      <point x="-33" y="889" type="line"/>
+      <point x="-84" y="885" type="line"/>
+      <point x="-84" y="957" type="line"/>
+      <point x="-126" y="957" type="line"/>
+      <point x="-126" y="884" type="line"/>
+      <point x="-169" y="889" type="line"/>
+      <point x="-226" y="889" type="line"/>
+      <point x="-226" y="852" type="line"/>
+      <point x="-170" y="852" type="line"/>
+      <point x="-126" y="855" type="line"/>
+      <point x="-126" y="785" type="line"/>
+    </contour>
+    <contour>
+      <point x="-84" y="728" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-84" y="512" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>-126</integer>
+          <key>y</key>
+          <integer>750</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

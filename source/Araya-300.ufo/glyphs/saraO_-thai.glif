@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="saraO-thai" format="1">
+  <advance width="341"/>
+  <unicode hex="0E42"/>
+  <note>
+	saraO-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="244" y="-9"/>
+      <point x="266" y="-5"/>
+      <point x="279" y="1" type="curve"/>
+      <point x="279" y="32" type="line"/>
+      <point x="231" y="32" type="line" smooth="yes"/>
+      <point x="212" y="32"/>
+      <point x="201" y="33"/>
+      <point x="184" y="37" type="curve"/>
+      <point x="179" y="51"/>
+      <point x="178" y="61"/>
+      <point x="178" y="78" type="curve" smooth="yes"/>
+      <point x="178" y="452" type="line" smooth="yes"/>
+      <point x="178" y="492"/>
+      <point x="177" y="519"/>
+      <point x="155" y="545" type="curve"/>
+      <point x="41" y="693" type="line"/>
+      <point x="41" y="701" type="line"/>
+      <point x="104" y="690"/>
+      <point x="149" y="690"/>
+      <point x="197" y="690" type="curve" smooth="yes"/>
+      <point x="246" y="690"/>
+      <point x="297" y="694"/>
+      <point x="340" y="706" type="curve"/>
+      <point x="328" y="743" type="line"/>
+      <point x="289" y="735"/>
+      <point x="232" y="732"/>
+      <point x="191" y="732" type="curve" smooth="yes"/>
+      <point x="155" y="732"/>
+      <point x="103" y="733"/>
+      <point x="50" y="735" type="curve"/>
+      <point x="6" y="704" type="line"/>
+      <point x="6" y="670" type="line"/>
+      <point x="120" y="517" type="line"/>
+      <point x="133" y="502"/>
+      <point x="133" y="482"/>
+      <point x="133" y="453" type="curve" smooth="yes"/>
+      <point x="133" y="97" type="line" smooth="yes"/>
+      <point x="133" y="29"/>
+      <point x="169" y="-9"/>
+      <point x="225" y="-9" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

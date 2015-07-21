@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="phinthu-thai" format="1">
+  <advance width="0"/>
+  <unicode hex="0E3A"/>
+  <note>
+	phinthu-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="-90" y="-148" type="line"/>
+      <point x="-90" y="-76" type="line"/>
+      <point x="-149" y="-76" type="line"/>
+      <point x="-149" y="-148" type="line"/>
+    </contour>
+    <contour>
+      <point x="-90" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-90" y="-215" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

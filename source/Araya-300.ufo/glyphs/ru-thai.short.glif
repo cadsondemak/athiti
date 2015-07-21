@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ru-thai.short" format="1">
+  <advance width="556"/>
+  <note>
+	ru-thai.short
+  </note>
+  <outline>
+    <contour>
+      <point x="472" y="-193" type="line"/>
+      <point x="472" y="415" type="line" smooth="yes"/>
+      <point x="472" y="470"/>
+      <point x="415" y="522"/>
+      <point x="305" y="522" type="curve" smooth="yes"/>
+      <point x="213" y="522"/>
+      <point x="133" y="492"/>
+      <point x="69" y="446" type="curve"/>
+      <point x="69" y="412" type="line"/>
+      <point x="143" y="312" type="line"/>
+      <point x="105" y="86" type="line" smooth="yes"/>
+      <point x="96" y="26"/>
+      <point x="123" y="-6"/>
+      <point x="175" y="-6" type="curve" smooth="yes"/>
+      <point x="200" y="-6"/>
+      <point x="224" y="-1"/>
+      <point x="243" y="5" type="curve"/>
+      <point x="243" y="35" type="line"/>
+      <point x="187" y="35" type="line" smooth="yes"/>
+      <point x="148" y="35"/>
+      <point x="142" y="53"/>
+      <point x="149" y="90" type="curve" smooth="yes"/>
+      <point x="185" y="290" type="line" smooth="yes"/>
+      <point x="189" y="311"/>
+      <point x="187" y="324"/>
+      <point x="176" y="338" type="curve" smooth="yes"/>
+      <point x="111" y="423" type="line"/>
+      <point x="111" y="428" type="line"/>
+      <point x="161" y="461"/>
+      <point x="232" y="479"/>
+      <point x="298" y="479" type="curve" smooth="yes"/>
+      <point x="351" y="479"/>
+      <point x="392" y="468"/>
+      <point x="426" y="450" type="curve"/>
+      <point x="426" y="-193" type="line"/>
+    </contour>
+  </outline>
+</glyph>

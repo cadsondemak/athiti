@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="1">
+  <advance width="580"/>
+  <unicode hex="00C0"/>
+  <note>
+	Agrave
+  </note>
+  <outline>
+    <contour>
+      <point x="308" y="717" type="line"/>
+      <point x="224" y="857" type="line"/>
+      <point x="162" y="851" type="line"/>
+      <point x="276" y="711" type="line"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+</glyph>

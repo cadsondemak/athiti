@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mdotbelow" format="1">
+  <advance width="675"/>
+  <unicode hex="1E42"/>
+  <note>
+	Mdotbelow
+  </note>
+  <outline>
+    <contour>
+      <point x="124" y="0" type="line"/>
+      <point x="140" y="319" type="line"/>
+      <point x="146" y="522" type="line"/>
+      <point x="152" y="523" type="line"/>
+      <point x="316" y="192" type="line"/>
+      <point x="359" y="192" type="line"/>
+      <point x="523" y="523" type="line"/>
+      <point x="529" y="522" type="line"/>
+      <point x="535" y="319" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="598" y="0" type="line"/>
+      <point x="567" y="612" type="line"/>
+      <point x="520" y="612" type="line"/>
+      <point x="341" y="240" type="line"/>
+      <point x="334" y="240" type="line"/>
+      <point x="155" y="612" type="line"/>
+      <point x="107" y="612" type="line"/>
+      <point x="77" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="-144"/>
+      <point x="380" y="-129"/>
+      <point x="380" y="-104" type="curve" smooth="yes"/>
+      <point x="380" y="-76"/>
+      <point x="365" y="-61"/>
+      <point x="338" y="-61" type="curve" smooth="yes"/>
+      <point x="310" y="-61"/>
+      <point x="294" y="-76"/>
+      <point x="294" y="-104" type="curve" smooth="yes"/>
+      <point x="294" y="-129"/>
+      <point x="310" y="-144"/>
+      <point x="338" y="-144" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

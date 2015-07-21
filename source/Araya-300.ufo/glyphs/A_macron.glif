@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Amacron" format="1">
+  <advance width="580"/>
+  <unicode hex="0100"/>
+  <note>
+	Amacron
+  </note>
+  <outline>
+    <contour>
+      <point x="392" y="714" type="line"/>
+      <point x="392" y="755" type="line"/>
+      <point x="186" y="755" type="line"/>
+      <point x="186" y="714" type="line"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.inferior" format="1">
+  <advance width="222"/>
+  <unicode hex="2081"/>
+  <note>
+	one.inferior
+  </note>
+  <outline>
+    <contour>
+      <point x="163" y="-132" type="line"/>
+      <point x="163" y="200" type="line" smooth="yes"/>
+      <point x="163" y="210"/>
+      <point x="136" y="227"/>
+      <point x="114" y="228" type="curve"/>
+      <point x="34" y="178" type="line"/>
+      <point x="43" y="155" type="line"/>
+      <point x="117" y="184" type="line"/>
+      <point x="121" y="181" type="line"/>
+      <point x="121" y="-132" type="line"/>
+    </contour>
+  </outline>
+</glyph>

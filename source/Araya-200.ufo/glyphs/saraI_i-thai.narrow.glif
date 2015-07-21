@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="saraIi-thai.narrow" format="1">
+  <advance width="0"/>
+  <note>
+	saraIi-thai.narrow
+  </note>
+  <outline>
+    <contour>
+      <point x="-190" y="620" type="line"/>
+      <point x="-190" y="711" type="line"/>
+      <point x="-220" y="711" type="line"/>
+      <point x="-220" y="650" type="line"/>
+      <point x="-375" y="650" type="line"/>
+      <point x="-471" y="641" type="line"/>
+      <point x="-471" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="-190" y="512" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-190" y="300" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>
