@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foFan-thai" format="1">
+  <advance width="637"/>
+  <unicode hex="0E1F"/>
+  <note>
+	foFan-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="211" y="0" type="line"/>
+      <point x="244" y="86"/>
+      <point x="285" y="209"/>
+      <point x="317" y="315" type="curve"/>
+      <point x="320" y="315" type="line"/>
+      <point x="352" y="209"/>
+      <point x="393" y="86"/>
+      <point x="426" y="0" type="curve"/>
+      <point x="524" y="0" type="line"/>
+      <point x="545" y="144"/>
+      <point x="571" y="514"/>
+      <point x="583" y="693" type="curve"/>
+      <point x="503" y="700" type="line"/>
+      <point x="494" y="528"/>
+      <point x="478" y="205"/>
+      <point x="469" y="81" type="curve"/>
+      <point x="463" y="81" type="line"/>
+      <point x="434" y="156"/>
+      <point x="386" y="305"/>
+      <point x="351" y="421" type="curve"/>
+      <point x="286" y="421" type="line"/>
+      <point x="251" y="305"/>
+      <point x="203" y="156"/>
+      <point x="174" y="81" type="curve"/>
+      <point x="168" y="81" type="line"/>
+      <point x="159" y="205"/>
+      <point x="151" y="354"/>
+      <point x="142" y="526" type="curve"/>
+      <point x="62" y="519" type="line"/>
+      <point x="74" y="340"/>
+      <point x="92" y="144"/>
+      <point x="113" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="454" y="301" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="524" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
