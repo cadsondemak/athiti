@@ -36,11 +36,11 @@
 
 @font-face {
     font-family: 'Athiti-SemiBold';
-    src: url('./fonts/Athiti-Semibold.eot');
-    src: url('./fonts/Athiti-Semibold.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Athiti-Semibold.woff2') format('woff2'),
-         url('./fonts/Athiti-Semibold.woff') format('woff'),
-         url('./fonts/Athiti-Semibold.ttf') format('truetype');
+    src: url('./fonts/Athiti-SemiBold.eot');
+    src: url('./fonts/Athiti-SemiBold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Athiti-SemiBold.woff2') format('woff2'),
+         url('./fonts/Athiti-SemiBold.woff') format('woff'),
+         url('./fonts/Athiti-SemiBold.ttf') format('truetype');
 }
 
 @font-face {
