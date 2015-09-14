@@ -1,34 +1,55 @@
 @font-face {
     font-family: 'Athiti-ExtraLight';
-    src: url('fonts/Athiti-ExtraLight.ttf') format('truetype'),
-         url('fonts/Athiti-ExtraLight.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Athiti-ExtraLight.woff') format('woff');
+    src: url('./fonts/Athiti-ExtraLight.eot');
+    src: url('./fonts/Athiti-ExtraLight.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Athiti-ExtraLight.woff2') format('woff2'),
+         url('./fonts/Athiti-ExtraLight.woff') format('woff'),
+         url('./fonts/Athiti-ExtraLight.ttf') format('truetype');
+}
 
+@font-face {
     font-family: 'Athiti-Light';
-    src: url('fonts/Athiti-Light.ttf') format('truetype'),
-         url('fonts/Athiti-Light.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Athiti-Light.woff') format('woff');
+    src: url('./fonts/Athiti-Light.eot');
+    src: url('./fonts/Athiti-Light.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Athiti-Light.woff2') format('woff2'),
+         url('./fonts/Athiti-Light.woff') format('woff'),
+         url('./fonts/Athiti-Light.ttf') format('truetype');
+}
 
+@font-face {
     font-family: 'Athiti-Regular';
-    src: url('fonts/Athiti-Regular.ttf') format('truetype'),
-         url('fonts/Athiti-Regular.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Athiti-Regular.woff') format('woff');
+    src: url('./fonts/Athiti-Regular.eot');
+    src: url('./fonts/Athiti-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Athiti-Regular.woff2') format('woff2'),
+         url('./fonts/Athiti-Regular.woff') format('woff'),
+         url('./fonts/Athiti-Regular.ttf') format('truetype');
+}
 
+@font-face {
     font-family: 'Athiti-Medium';
-    src: url('fonts/Athiti-Medium.ttf') format('truetype'),
-         url('fonts/Athiti-Medium.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Athiti-Medium.woff') format('woff');
+    src: url('./fonts/Athiti-Medium.eot');
+    src: url('./fonts/Athiti-Medium.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Athiti-Medium.woff2') format('woff2'),
+         url('./fonts/Athiti-Medium.woff') format('woff'),
+         url('./fonts/Athiti-Medium.ttf') format('truetype');
+}
 
+@font-face {
     font-family: 'Athiti-SemiBold';
-    src: url('fonts/Athiti-SemiBold.ttf') format('truetype'),
-         url('fonts/Athiti-SemiBold.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Athiti-SemiBold.woff') format('woff');
+    src: url('./fonts/Athiti-Semibold.eot');
+    src: url('./fonts/Athiti-Semibold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Athiti-Semibold.woff2') format('woff2'),
+         url('./fonts/Athiti-Semibold.woff') format('woff'),
+         url('./fonts/Athiti-Semibold.ttf') format('truetype');
+}
 
+@font-face {
     font-family: 'Athiti-Bold';
-    src: url('fonts/Athiti-Bold.ttf') format('truetype'),
-         url('fonts/Athiti-Bold.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Athiti-Bold.woff') format('woff');
-
+    src: url('./fonts/Athiti-Bold.eot');
+    src: url('./fonts/Athiti-Bold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Athiti-Bold.woff2') format('woff2'),
+         url('./fonts/Athiti-Bold.woff') format('woff'),
+         url('./fonts/Athiti-Bold.ttf') format('truetype');
 }
 
 #block-1 {
