@@ -12,7 +12,7 @@ Informal loopless Thai typefaces have slightly simplified details, as compared t
 
 Sizes and positions of vowels and tone marks need to be managed carefully because they are all relevant to readability, legibility, and overall textures.
 
-Also, in this case, ink trapping is required when connecting two specific strokes of each glyph and it has to be done properly.
+Also, in this case, ink trapping is required when connecting two specific strokes of each glyph and it has to be done carefully.
 
 Glyphs files (.glyphs) in the source folder can be opened in Glyphs program for further development.
 Font files (.ttf and .otf) in the fonts folder are compatible with Window, MacOS, and Linux system.
