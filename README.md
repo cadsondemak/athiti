@@ -10,5 +10,11 @@ There is a specific approach on how to deal with thick and thin stroke for Thai 
 
 Informal loopless Thai typefaces have slightly simplified details, as compared to formal one, so this allows designers to extend the font to black weight and more in some cases.
 
+Sizes and positions of vowels and tone marks need to be managed carefully because they are all relevant to readability, legibility, and overall textures.
+
+Also, in this case, ink trapping is required when connecting two specific strokes of each glyph and it has to be done properly.
+
+Glyphs files (.glyphs) in the source folder can be opened in Glyphs program for further development.
+Font files (.ttf and .otf) in the fonts folder are compatible with Window, MacOS, and Linux system.
 
 Athiti project is led by Cadson Demak, a type foundry in Thailand. To contribute, see github.com/cadsondemak/athiti
